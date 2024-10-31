@@ -2,7 +2,7 @@
 A simple Tic-Tac-Toe AI agent that can use DFS, BFS, iterative deepening DFS, and UCS.
 
 ## How to build
-'''bash
+```bash
 # Create a new directory named 'build' for storing the build files
 mkdir build
 
@@ -18,4 +18,4 @@ make
 
 # Execute the compiled executable named 'main'
 ./main
-'''
+```
